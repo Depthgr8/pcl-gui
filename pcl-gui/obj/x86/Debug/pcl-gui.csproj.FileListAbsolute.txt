@@ -1,0 +1,8 @@
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\bin\Debug\pcl-gui.exe
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\bin\Debug\pcl-gui.pdb
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\obj\x86\Debug\pcl_gui.Form1.resources
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\obj\x86\Debug\pcl_gui.Properties.Resources.resources
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\obj\x86\Debug\pcl-gui.csproj.GenerateResource.Cache
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\obj\x86\Debug\pcl-gui.exe
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\obj\x86\Debug\pcl-gui.pdb
+C:\Users\Windows\Dropbox\Internship\Project\pcl-gui\pcl-gui\obj\x86\Debug\pcl-gui.csprojResolveAssemblyReference.cache
