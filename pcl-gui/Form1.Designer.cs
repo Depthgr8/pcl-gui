@@ -78,18 +78,21 @@
             this.oBJToolStripMenuItem.Name = "oBJToolStripMenuItem";
             this.oBJToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.oBJToolStripMenuItem.Text = "PLY to OBJ";
+            this.oBJToolStripMenuItem.Click += new System.EventHandler(this.oBJToolStripMenuItem_Click);
             // 
             // pCDToolStripMenuItem1
             // 
             this.pCDToolStripMenuItem1.Name = "pCDToolStripMenuItem1";
             this.pCDToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
             this.pCDToolStripMenuItem1.Text = "PLY to PCD";
+            this.pCDToolStripMenuItem1.Click += new System.EventHandler(this.pCDToolStripMenuItem1_Click);
             // 
             // rAWToolStripMenuItem
             // 
             this.rAWToolStripMenuItem.Name = "rAWToolStripMenuItem";
             this.rAWToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.rAWToolStripMenuItem.Text = "PLY to RAW";
+            this.rAWToolStripMenuItem.Click += new System.EventHandler(this.rAWToolStripMenuItem_Click);
             // 
             // pCDToolStripMenuItem
             // 
@@ -103,7 +106,7 @@
             // pLYToolStripMenuItem1
             // 
             this.pLYToolStripMenuItem1.Name = "pLYToolStripMenuItem1";
-            this.pLYToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.pLYToolStripMenuItem1.Size = new System.Drawing.Size(135, 22);
             this.pLYToolStripMenuItem1.Text = "PCD to PLY";
             this.pLYToolStripMenuItem1.Click += new System.EventHandler(this.pLYToolStripMenuItem1_Click);
             // 
@@ -112,6 +115,7 @@
             this.vTKToolStripMenuItem.Name = "vTKToolStripMenuItem";
             this.vTKToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.vTKToolStripMenuItem.Text = "PCD to VTK";
+            this.vTKToolStripMenuItem.Click += new System.EventHandler(this.vTKToolStripMenuItem_Click);
             // 
             // clipToolStripMenuItem
             // 
@@ -124,7 +128,7 @@
             // pCDFileToolStripMenuItem
             // 
             this.pCDFileToolStripMenuItem.Name = "pCDFileToolStripMenuItem";
-            this.pCDFileToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.pCDFileToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
             this.pCDFileToolStripMenuItem.Text = "PCD File";
             this.pCDFileToolStripMenuItem.Click += new System.EventHandler(this.pCDFileToolStripMenuItem_Click);
             // 
