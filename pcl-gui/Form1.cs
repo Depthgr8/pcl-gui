@@ -30,7 +30,7 @@ namespace pcl_gui
 
         private void pLYToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-
+            '
             // Open file dialog window
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
             openFileDialog1.InitialDirectory = "c:\\";
